@@ -1,6 +1,5 @@
 import requests
 import re
-import uuid
 from pathlib import Path
 from bs4 import BeautifulSoup
 import os
